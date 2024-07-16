@@ -12,6 +12,6 @@ The scripts connect directly to an Ethereum node and scrape the events emitted b
 
 The data can be found in the [data](data) folder.
 
-The Python notebook [analysis/data_viz.ipynb] can be used to recreate all the analyses and figures 
+The Python notebook [analysis/data_viz.ipynb](analysis/data_viz.ipynb) can be used to recreate all the analyses and figures 
 in [Blockchain Governance: An Empirical Analysis of User Engagement on DAOs](https://arxiv.org/abs/2407.10945)
 
