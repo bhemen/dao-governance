@@ -1,0 +1,286 @@
+proposalId,voter,nondatabase_ens_name,sybil_name,compound_api_name,database_ens_name,category
+1,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+1,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+1,0xE5A52921901C58971ba60725651Dc28bdE98BEB9,,,ParaFi Capital,[],investment
+2,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+2,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+2,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+3,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+3,0x5d8908aFEE1DF9f7f0830105f8BE828F97Ce9e68,,argentHQ,Argent,[],DeFi-app/company
+3,0x3429Ac6eFffe28D870667cF3A963017666b6F481,,,Robert Leshner (Test Wallet),[],Compound founder
+3,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+4,0x5d8908aFEE1DF9f7f0830105f8BE828F97Ce9e68,,argentHQ,Argent,[],DeFi-app/company
+4,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+4,0x3429Ac6eFffe28D870667cF3A963017666b6F481,,,Robert Leshner (Test Wallet),[],Compound founder
+5,0xA1b61405791170833070C0eA61eD28728A840241,,,Paradigm,[],investment
+5,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+5,0x3429Ac6eFffe28D870667cF3A963017666b6F481,,,Robert Leshner (Test Wallet),[],Compound founder
+6,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+6,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+6,0x5d8908aFEE1DF9f7f0830105f8BE828F97Ce9e68,,argentHQ,Argent,[],DeFi-app/company
+6,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+6,0x3429Ac6eFffe28D870667cF3A963017666b6F481,,,Robert Leshner (Test Wallet),[],Compound founder
+7,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+7,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+7,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+7,0x5d8908aFEE1DF9f7f0830105f8BE828F97Ce9e68,,argentHQ,Argent,[],DeFi-app/company
+8,0xF25f26A42ADCB153B1966A4Bf5df6d0C9e27197f,,,a16z,[],investment
+8,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+8,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+9,0xF25f26A42ADCB153B1966A4Bf5df6d0C9e27197f,,,a16z,[],investment
+9,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+9,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+10,0xF25f26A42ADCB153B1966A4Bf5df6d0C9e27197f,,,a16z,[],investment
+10,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+10,0xA1b61405791170833070C0eA61eD28728A840241,,,Paradigm,[],investment
+11,0xA1b61405791170833070C0eA61eD28728A840241,,,Paradigm,[],investment
+11,0x5b97680e165B4DbF5C45f4ff4241e85F418c66C2,kain.eth,,Kain | Synthetix,[],founder
+11,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+11,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+12,0xA1b61405791170833070C0eA61eD28728A840241,,,Paradigm,[],investment
+12,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+12,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+12,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+13,0x9695cfaa368718DD6790a6F57B633D83F565893e,,,Alameda Research,[],DeFi-app/company
+13,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+14,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+14,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+14,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+14,0x9695cfaa368718DD6790a6F57B633D83F565893e,,,Alameda Research,[],DeFi-app/company
+14,0x5b97680e165B4DbF5C45f4ff4241e85F418c66C2,kain.eth,,Kain | Synthetix,[],founder
+15,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+15,0xA1b61405791170833070C0eA61eD28728A840241,,,Paradigm,[],investment
+15,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+15,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+15,0x9695cfaa368718DD6790a6F57B633D83F565893e,,,Alameda Research,[],DeFi-app/company
+16,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+16,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+16,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+17,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+17,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+17,0x5b97680e165B4DbF5C45f4ff4241e85F418c66C2,kain.eth,,Kain | Synthetix,[],founder
+17,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+18,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+18,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+18,0x5b97680e165B4DbF5C45f4ff4241e85F418c66C2,kain.eth,,Kain | Synthetix,[],investment
+19,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+19,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+19,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+19,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+20,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+20,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+21,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+21,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+22,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+22,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+23,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+23,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+23,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+24,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+24,0xDB9F80F513A3bd5Ae7408484E679A1d86Eee1580,,,,[],successful autonomous proposal
+24,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+24,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+25,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+25,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+25,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+26,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+26,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+26,0xE5A52921901C58971ba60725651Dc28bdE98BEB9,,,ParaFi Capital,[],investment
+27,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+27,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+27,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+28,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+28,0x14Ee59975F7EE3A6aB8e9Bc81a7E634fa66285B4,,,,[],failed autonomous proposal
+28,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+29,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+29,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+29,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+30,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+30,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+31,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+31,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+32,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+32,0x2f04664B18FB9b6D49124FcC876B52A4ba797718,,,,[],failed autonomous proposal
+32,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+33,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+33,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+33,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+34,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+34,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+34,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+35,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+35,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+35,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+36,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+36,0x05C55b58B044342e89C343D2d6D53C08d26500Bb,,,,[],successful autonomous proposal
+36,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+37,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+37,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+37,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+38,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+38,0x458cEec48586a85fCFEb4A179706656eE321730E,,,Blockchain at Berkeley,[],university
+39,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+39,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+39,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+40,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+40,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+40,0x61258f12C459984F32b83C86A6Cc10aa339396dE,,,Bain Capital Ventures,[],investment
+41,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+41,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+41,0x9B68c14e936104e9a7a24c712BEecdc220002984,getty.gfxlabs.eth,getty_hill,Getty Hill,"['compoundapp.eth', 'compoundprotocol.eth', 'usdi.eth', 'gettyhill.eth', 'etherlands.eth']",founder
+42,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+42,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+42,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+43,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+43,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+43,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+44,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+44,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+45,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+45,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+45,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+46,0xeD409c9fF60f3020abF9012bcd45Fc294f5608fF,,,Polychain Capital,[],investment
+46,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+46,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+47,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+47,0x4ca7B33AED8B13faAbB97724DdB3108500a3801e,,,,[],successful autonomous proposal
+49,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+49,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+49,0xAC5720d6EE2d7872b88914C9c5Fa9BF38e72FaF6,,,Robert Leshner,[],Compound founder
+50,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+50,0xb8337bfd5EB6E837d641D6b51c07D7Db94Bf5fec,,,Polychain Capital,[],investment
+50,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+50,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+51,0xd5447A7aa223268398CF7c38c2c580622CC98772,,,Polychain Capital,[],investment
+51,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+51,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+52,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+52,0xd5447A7aa223268398CF7c38c2c580622CC98772,,,Polychain Capital,[],investment
+52,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+53,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+53,0xd5447A7aa223268398CF7c38c2c580622CC98772,,,Polychain Capital,[],investment
+53,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+54,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+54,0xd5447A7aa223268398CF7c38c2c580622CC98772,,,Polychain Capital,[],investment
+54,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+56,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+56,0xd5447A7aa223268398CF7c38c2c580622CC98772,,,Polychain Capital,[],investment
+56,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+56,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+57,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+57,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+57,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+57,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+58,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+58,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+58,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+59,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+59,0xd5447A7aa223268398CF7c38c2c580622CC98772,,,Polychain Capital,[],investment
+59,0x61258f12C459984F32b83C86A6Cc10aa339396dE,,,Bain Capital Ventures,[],investment
+59,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+60,0xd5447A7aa223268398CF7c38c2c580622CC98772,,,Polychain Capital,[],investment
+60,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+60,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+60,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+61,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+61,0xd5447A7aa223268398CF7c38c2c580622CC98772,,,Polychain Capital,[],investment
+61,0x61258f12C459984F32b83C86A6Cc10aa339396dE,,,Bain Capital Ventures,[],investment
+62,0xd5447A7aa223268398CF7c38c2c580622CC98772,,,Polychain Capital,[],investment
+62,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+63,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+63,0xd5447A7aa223268398CF7c38c2c580622CC98772,,,Polychain Capital,[],investment
+64,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+64,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+64,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+65,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+66,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+66,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+66,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+67,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+67,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+67,0x8d07D225a769b7Af3A923481E1FdF49180e6A265,monetsupply.eth,MonetSupply,MonetSupply,"['cryptocriticscorner.eth', 'proxydao.eth', 'xyk.eth', 'uwblockchain.eth', 'riskmgmt.eth', 'pastaio.eth', 'theclearinghouse.eth', 'riskdao.eth', 'blockanalitica.eth', 'cryptocriticpod.eth', 'acats.eth', 'nacha.eth', 'hyphy.eth', 'monetsupply.eth', 'mrcarmack.eth', 'basepool.eth', 'pastadao.eth', 'nattywine.eth', 'caspiancey.eth', 'alwayshasbeen.eth', 'grindset.eth', 'proxyadvisor.eth', 'rektboi.eth']",
+67,0x9B68c14e936104e9a7a24c712BEecdc220002984,getty.gfxlabs.eth,getty_hill,Getty Hill,"['compoundapp.eth', 'compoundprotocol.eth', 'usdi.eth', 'gettyhill.eth', 'etherlands.eth']",founder
+68,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+68,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+68,0x683a4F9915D6216f73d6Df50151725036bD26C02,,,Gauntlet,[],DeFi-app/company
+69,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+69,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+69,0x683a4F9915D6216f73d6Df50151725036bD26C02,,,Gauntlet,[],DeFi-app/company
+70,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+70,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+71,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+71,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+72,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+72,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+73,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+73,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+74,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+74,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+74,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+76,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+76,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+76,0x61258f12C459984F32b83C86A6Cc10aa339396dE,,,Bain Capital Ventures,[],investment
+75,0xA5dcEc366b04a127d0F4eFeE183346F25434d648,,,,[],completely anonymous
+77,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+78,0x683a4F9915D6216f73d6Df50151725036bD26C02,,,Gauntlet,[],DeFi-app/company
+79,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+80,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+81,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+82,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+82,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+83,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+83,0x683a4F9915D6216f73d6Df50151725036bD26C02,,,Gauntlet,[],DeFi-app/company
+84,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+84,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+84,0xa6e8772af29b29B9202a073f8E36f447689BEef6,gfxlabs.eth,,GFX Labs,['gfxlabs.eth'],DeFi-app/company
+84,0x8d07D225a769b7Af3A923481E1FdF49180e6A265,monetsupply.eth,MonetSupply,MonetSupply,"['cryptocriticscorner.eth', 'proxydao.eth', 'xyk.eth', 'uwblockchain.eth', 'riskmgmt.eth', 'pastaio.eth', 'theclearinghouse.eth', 'riskdao.eth', 'blockanalitica.eth', 'cryptocriticpod.eth', 'acats.eth', 'nacha.eth', 'hyphy.eth', 'monetsupply.eth', 'mrcarmack.eth', 'basepool.eth', 'pastadao.eth', 'nattywine.eth', 'caspiancey.eth', 'alwayshasbeen.eth', 'grindset.eth', 'proxyadvisor.eth', 'rektboi.eth']",multiple governance contributor
+85,0x683a4F9915D6216f73d6Df50151725036bD26C02,,,Gauntlet,[],DeFi-app/company
+85,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+85,0x8d07D225a769b7Af3A923481E1FdF49180e6A265,monetsupply.eth,MonetSupply,MonetSupply,"['cryptocriticscorner.eth', 'proxydao.eth', 'xyk.eth', 'uwblockchain.eth', 'riskmgmt.eth', 'pastaio.eth', 'theclearinghouse.eth', 'riskdao.eth', 'blockanalitica.eth', 'cryptocriticpod.eth', 'acats.eth', 'nacha.eth', 'hyphy.eth', 'monetsupply.eth', 'mrcarmack.eth', 'basepool.eth', 'pastadao.eth', 'nattywine.eth', 'caspiancey.eth', 'alwayshasbeen.eth', 'grindset.eth', 'proxyadvisor.eth', 'rektboi.eth']",multiple governance contributor
+85,0x47C125DEe6898b6CB2379bCBaFC823Ff3f614770,blockchainatucla.eth,blockchainucla,Blockchain at UCLA,['blockchainatucla.eth'],university
+86,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+87,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+87,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+89,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+89,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+90,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+90,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+90,0x683a4F9915D6216f73d6Df50151725036bD26C02,,,Gauntlet,[],DeFi-app/company
+92,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+92,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+92,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+92,0xa6e8772af29b29B9202a073f8E36f447689BEef6,gfxlabs.eth,,GFX Labs,['gfxlabs.eth'],DeFi-app/company
+93,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+93,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+93,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+95,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+95,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+96,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+97,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+97,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+97,0x683a4F9915D6216f73d6Df50151725036bD26C02,,,Gauntlet,[],DeFi-app/company
+98,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+98,0x683a4F9915D6216f73d6Df50151725036bD26C02,,,Gauntlet,[],DeFi-app/company
+98,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+98,0xa6e8772af29b29B9202a073f8E36f447689BEef6,gfxlabs.eth,,GFX Labs,['gfxlabs.eth'],DeFi-app/company
+99,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+99,0x683a4F9915D6216f73d6Df50151725036bD26C02,,,Gauntlet,[],DeFi-app/company
+99,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+99,0xa6e8772af29b29B9202a073f8E36f447689BEef6,gfxlabs.eth,,GFX Labs,['gfxlabs.eth'],DeFi-app/company
+100,0x9AA835Bc7b8cE13B9B0C9764A52FbF71AC62cCF1,,,a16z,[],investment
+100,0x8169522c2C57883E8EF80C498aAB7820dA539806,,,Geoffrey Hayes,[],Compound founder
+100,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+100,0xa6e8772af29b29B9202a073f8E36f447689BEef6,gfxlabs.eth,,GFX Labs,['gfxlabs.eth'],DeFi-app/company
+101,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+101,0x8d07D225a769b7Af3A923481E1FdF49180e6A265,monetsupply.eth,MonetSupply,MonetSupply,"['cryptocriticscorner.eth', 'proxydao.eth', 'xyk.eth', 'uwblockchain.eth', 'riskmgmt.eth', 'pastaio.eth', 'theclearinghouse.eth', 'riskdao.eth', 'blockanalitica.eth', 'cryptocriticpod.eth', 'acats.eth', 'nacha.eth', 'hyphy.eth', 'monetsupply.eth', 'mrcarmack.eth', 'basepool.eth', 'pastadao.eth', 'nattywine.eth', 'caspiancey.eth', 'alwayshasbeen.eth', 'grindset.eth', 'proxyadvisor.eth', 'rektboi.eth']",multiple governance contributor
+102,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+102,0x683a4F9915D6216f73d6Df50151725036bD26C02,,,Gauntlet,[],DeFi-app/company
+102,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+103,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder
+103,0x683a4F9915D6216f73d6Df50151725036bD26C02,,,Gauntlet,[],DeFi-app/company
+103,0x54A37d93E57c5DA659F508069Cf65A381b61E189,,,blck,[],identified but anonymous
+104,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+105,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+106,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+107,0xea6C3Db2e7FCA00Ea9d7211a03e83f568Fc13BF7,,,Polychain Capital,[],investment
+107,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],Compound founder

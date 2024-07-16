@@ -1,0 +1,67 @@
+proposalId,voter,nondatabase_ens_name,sybil_name,compound_api_name,database_ens_name,category
+1,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+1,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+2,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+2,0x8E4ED221fa034245F14205f781E0b13C5bd6a42E,,,,[],completely anonymous
+3,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+3,0x2B1Ad6184a6B0fac06bD225ed37C2AbC04415fF4,,a16z,,[],investment
+4,0x2B1Ad6184a6B0fac06bD225ed37C2AbC04415fF4,,a16z,,[],investment
+4,0x61c8D4e4BE6477Bb49791540Ff297Ef30Eaa01c2,,HarvardLawBFI,HarvardLawBFI,[],university
+4,0xA2BF1B0a7E079767B4701b5a1D9D5700eB42D1d1,kennethng.eth,nkennethk,,[],UGP
+4,0xe7925D190aea9279400cD9a005E33CEB9389Cc2b,jessewldn.eth,jessewldn,,[],founder
+4,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+5,0x61c8D4e4BE6477Bb49791540Ff297Ef30Eaa01c2,,HarvardLawBFI,HarvardLawBFI,[],university
+1,0x2B1Ad6184a6B0fac06bD225ed37C2AbC04415fF4,,a16z,,[],investment
+1,0x6626593C237f530D15aE9980A95ef938Ac15c35c,,gauntletnetwork,Gauntlet,['gauntletnetworks.eth'],DeFi-app/company
+1,0x61c8D4e4BE6477Bb49791540Ff297Ef30Eaa01c2,,HarvardLawBFI,HarvardLawBFI,[],university
+1,0xA2BF1B0a7E079767B4701b5a1D9D5700eB42D1d1,kennethng.eth,nkennethk,,[],UGP
+1,0xe7925D190aea9279400cD9a005E33CEB9389Cc2b,jessewldn.eth,jessewldn,,[],founder
+2,0x2B1Ad6184a6B0fac06bD225ed37C2AbC04415fF4,,a16z,,[],investment
+2,0xA2BF1B0a7E079767B4701b5a1D9D5700eB42D1d1,kennethng.eth,nkennethk,,[],UGP
+2,0xe7925D190aea9279400cD9a005E33CEB9389Cc2b,jessewldn.eth,jessewldn,,[],founder
+2,0x7e4A8391C728fEd9069B2962699AB416628B19Fa,,Dharma_HQ,Dharma,['dharma-staging.eth'],DeFi-app/company
+2,0x458cEec48586a85fCFEb4A179706656eE321730E,,,Blockchain at Berkeley,[],university
+2,0xEFF506a32B55D5c19847c1a4F8510c00280c27E5,,StanfordCrypto,Stanford Blockchain Club,[],university
+3,0x2B1Ad6184a6B0fac06bD225ed37C2AbC04415fF4,,a16z,,[],investment
+3,0xA2BF1B0a7E079767B4701b5a1D9D5700eB42D1d1,kennethng.eth,nkennethk,,[],UGP
+3,0x458cEec48586a85fCFEb4A179706656eE321730E,,,Blockchain at Berkeley,[],university
+3,0xEFF506a32B55D5c19847c1a4F8510c00280c27E5,,StanfordCrypto,Stanford Blockchain Club,[],university
+4,0x603F9f25ea89F465E36E2E9a9eB13289F0e7DaE8,aijia123456789.eth,,,['aijia123456789.eth'],
+9,0x2B1Ad6184a6B0fac06bD225ed37C2AbC04415fF4,,a16z,,[],investment
+9,0xA2BF1B0a7E079767B4701b5a1D9D5700eB42D1d1,kennethng.eth,nkennethk,,[],UGP
+9,0xB0623C91c65621df716aB8aFE5f66656B21A9108,johnpalmer.eth,john_c_palmer,,"['lilnoun3.eth', 'noun111.eth', 'browsercompany.eth', 'noun292.eth', 'lilparty.eth', 'jpalmz.eth', 'lilnoun7.eth', 'gathertown.eth', 'partybuy.eth', 'shields.eth', 'icarly.eth', 'lilnoun9.eth', 'johnpalmer.eth', '100gecs.eth', 'partybid.eth', 'lilnoun1.eth', 'jcp.eth', 'lilnoun853.eth', 'b20.eth', 'noun98.eth', 'lilnoun2.eth', 'noun95.eth', 'deathsim.eth', 'spline.eth', 'dorianelectra.eth', 'lilnoun8.eth', 'jasoncalacanis.eth', 'lilnoun0.eth', 'lilnoun5.eth', 'lilnoun6.eth', 'heavensarena.eth', 'chainjail.eth', 'lifesim.eth']",UGP
+9,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],founder
+9,0x683a4F9915D6216f73d6Df50151725036bD26C02,,,Gauntlet,[],DeFi-app/company
+10,0x2B1Ad6184a6B0fac06bD225ed37C2AbC04415fF4,,a16z,,[],investment
+10,0xA2BF1B0a7E079767B4701b5a1D9D5700eB42D1d1,kennethng.eth,nkennethk,,[],UGP
+10,0xe7925D190aea9279400cD9a005E33CEB9389Cc2b,jessewldn.eth,jessewldn,,[],founder
+10,0xB0623C91c65621df716aB8aFE5f66656B21A9108,johnpalmer.eth,john_c_palmer,,"['lilnoun3.eth', 'noun111.eth', 'browsercompany.eth', 'noun292.eth', 'lilparty.eth', 'jpalmz.eth', 'lilnoun7.eth', 'gathertown.eth', 'partybuy.eth', 'shields.eth', 'icarly.eth', 'lilnoun9.eth', 'johnpalmer.eth', '100gecs.eth', 'partybid.eth', 'lilnoun1.eth', 'jcp.eth', 'lilnoun853.eth', 'b20.eth', 'noun98.eth', 'lilnoun2.eth', 'noun95.eth', 'deathsim.eth', 'spline.eth', 'dorianelectra.eth', 'lilnoun8.eth', 'jasoncalacanis.eth', 'lilnoun0.eth', 'lilnoun5.eth', 'lilnoun6.eth', 'heavensarena.eth', 'chainjail.eth', 'lifesim.eth']",UGP
+11,0x2B1Ad6184a6B0fac06bD225ed37C2AbC04415fF4,,a16z,,[],investment
+11,0xA2BF1B0a7E079767B4701b5a1D9D5700eB42D1d1,kennethng.eth,nkennethk,,[],UGP
+11,0x8962285fAac45a7CBc75380c484523Bb7c32d429,,Consensys,,[],DeFi-app/company
+11,0xB0623C91c65621df716aB8aFE5f66656B21A9108,johnpalmer.eth,john_c_palmer,,"['lilnoun3.eth', 'noun111.eth', 'browsercompany.eth', 'noun292.eth', 'lilparty.eth', 'jpalmz.eth', 'lilnoun7.eth', 'gathertown.eth', 'partybuy.eth', 'shields.eth', 'icarly.eth', 'lilnoun9.eth', 'johnpalmer.eth', '100gecs.eth', 'partybid.eth', 'lilnoun1.eth', 'jcp.eth', 'lilnoun853.eth', 'b20.eth', 'noun98.eth', 'lilnoun2.eth', 'noun95.eth', 'deathsim.eth', 'spline.eth', 'dorianelectra.eth', 'lilnoun8.eth', 'jasoncalacanis.eth', 'lilnoun0.eth', 'lilnoun5.eth', 'lilnoun6.eth', 'heavensarena.eth', 'chainjail.eth', 'lifesim.eth']",UGP
+11,0x683a4F9915D6216f73d6Df50151725036bD26C02,,,Gauntlet,[],DeFi-app/company
+13,0x2B1Ad6184a6B0fac06bD225ed37C2AbC04415fF4,,a16z,,[],investment
+13,0xA2BF1B0a7E079767B4701b5a1D9D5700eB42D1d1,kennethng.eth,nkennethk,,[],UGP
+13,0xB0623C91c65621df716aB8aFE5f66656B21A9108,johnpalmer.eth,john_c_palmer,,"['lilnoun3.eth', 'noun111.eth', 'browsercompany.eth', 'noun292.eth', 'lilparty.eth', 'jpalmz.eth', 'lilnoun7.eth', 'gathertown.eth', 'partybuy.eth', 'shields.eth', 'icarly.eth', 'lilnoun9.eth', 'johnpalmer.eth', '100gecs.eth', 'partybid.eth', 'lilnoun1.eth', 'jcp.eth', 'lilnoun853.eth', 'b20.eth', 'noun98.eth', 'lilnoun2.eth', 'noun95.eth', 'deathsim.eth', 'spline.eth', 'dorianelectra.eth', 'lilnoun8.eth', 'jasoncalacanis.eth', 'lilnoun0.eth', 'lilnoun5.eth', 'lilnoun6.eth', 'heavensarena.eth', 'chainjail.eth', 'lifesim.eth']",UGP
+13,0x88FB3D509fC49B515BFEb04e23f53ba339563981,,rleshner,Robert Leshner,['lesh.eth'],founder
+14,0x2B1Ad6184a6B0fac06bD225ed37C2AbC04415fF4,,a16z,,[],investment
+14,0x683a4F9915D6216f73d6Df50151725036bD26C02,,,Gauntlet,[],DeFi-app/company
+14,0x7AE109A63ff4DC852e063a673b40BED85D22E585,,CalBlockchain,Blockchain at Berkeley,['calblockchain.eth'],university
+16,0x2B1Ad6184a6B0fac06bD225ed37C2AbC04415fF4,,a16z,,[],investment
+16,0x7AE109A63ff4DC852e063a673b40BED85D22E585,,CalBlockchain,Blockchain at Berkeley,['calblockchain.eth'],university
+16,0x2b08869b3e1855437FDa94867f4c6da0122b2f86,,,,[],completely anonymous
+16,0x47C125DEe6898b6CB2379bCBaFC823Ff3f614770,blockchainatucla.eth,blockchainucla,Blockchain at UCLA,['blockchainatucla.eth'],university
+16,0x32b8B761C038b030A402AB7d5536b4cddA6dbA9f,otherinternet.eth,,,['otherinternet.eth'],research-org
+17,0x13BDaE8c5F0fC40231F0E6A4ad70196F59138548,,UMichBlockchain,Blockchain at Michigan,[],university
+17,0x535b3ddD9939056cB6d74D1253Ae1A4Adf5d723A,,she_256,she256,[],nonprofit
+18,0x13BDaE8c5F0fC40231F0E6A4ad70196F59138548,,UMichBlockchain,Blockchain at Michigan,[],university
+19,0xA2BF1B0a7E079767B4701b5a1D9D5700eB42D1d1,kennethng.eth,nkennethk,,[],UGP
+19,0x8962285fAac45a7CBc75380c484523Bb7c32d429,,Consensys,,[],DeFi-app/company
+19,0x7AE109A63ff4DC852e063a673b40BED85D22E585,,CalBlockchain,Blockchain at Berkeley,['calblockchain.eth'],university
+19,0x2b08869b3e1855437FDa94867f4c6da0122b2f86,,,,[],completely anonymous
+19,0xB0623C91c65621df716aB8aFE5f66656B21A9108,johnpalmer.eth,john_c_palmer,,"['lilnoun3.eth', 'noun111.eth', 'browsercompany.eth', 'noun292.eth', 'lilparty.eth', 'jpalmz.eth', 'lilnoun7.eth', 'gathertown.eth', 'partybuy.eth', 'shields.eth', 'icarly.eth', 'lilnoun9.eth', 'johnpalmer.eth', '100gecs.eth', 'partybid.eth', 'lilnoun1.eth', 'jcp.eth', 'lilnoun853.eth', 'b20.eth', 'noun98.eth', 'lilnoun2.eth', 'noun95.eth', 'deathsim.eth', 'spline.eth', 'dorianelectra.eth', 'lilnoun8.eth', 'jasoncalacanis.eth', 'lilnoun0.eth', 'lilnoun5.eth', 'lilnoun6.eth', 'heavensarena.eth', 'chainjail.eth', 'lifesim.eth']",UGP
+20,0xA2BF1B0a7E079767B4701b5a1D9D5700eB42D1d1,kennethng.eth,nkennethk,,[],UGP
+20,0x8962285fAac45a7CBc75380c484523Bb7c32d429,,Consensys,,[],DeFi-app/company
+20,0x2b08869b3e1855437FDa94867f4c6da0122b2f86,,,,[],completely anonymous
+20,0xB0623C91c65621df716aB8aFE5f66656B21A9108,johnpalmer.eth,john_c_palmer,,"['lilnoun3.eth', 'noun111.eth', 'browsercompany.eth', 'noun292.eth', 'lilparty.eth', 'jpalmz.eth', 'lilnoun7.eth', 'gathertown.eth', 'partybuy.eth', 'shields.eth', 'icarly.eth', 'lilnoun9.eth', 'johnpalmer.eth', '100gecs.eth', 'partybid.eth', 'lilnoun1.eth', 'jcp.eth', 'lilnoun853.eth', 'b20.eth', 'noun98.eth', 'lilnoun2.eth', 'noun95.eth', 'deathsim.eth', 'spline.eth', 'dorianelectra.eth', 'lilnoun8.eth', 'jasoncalacanis.eth', 'lilnoun0.eth', 'lilnoun5.eth', 'lilnoun6.eth', 'heavensarena.eth', 'chainjail.eth', 'lifesim.eth']",UGP
